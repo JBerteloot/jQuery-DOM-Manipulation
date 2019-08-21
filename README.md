@@ -1,4 +1,6 @@
-## Objectives
+#### Check out live demo of this project at https://jberteloot.github.io/jQuery-DOM-Manipulation/
+
+## Objectives & Instructions
 
 ### Learning Objectives
 
